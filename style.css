@@ -56,6 +56,10 @@ h1 {
     background-position: right;
 }
 
+.experience-area h1 {
+    margin-left: 5%;
+}
+
 .experience-item {
     box-shadow: 10px 10px 40px gray;
     margin: 5%;
